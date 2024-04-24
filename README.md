@@ -1,2 +1,1 @@
-# Portfolio-Robbie-Lens---OpenClassrooms
-Première création de site en HTML et CSS
+Base de code pour le cours HTML CSS
