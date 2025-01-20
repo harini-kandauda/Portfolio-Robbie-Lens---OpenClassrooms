@@ -1,1 +1,1 @@
-Projet du cours HTML - CSS d'OpenClassrooms
+First website made with HTML and CSS
